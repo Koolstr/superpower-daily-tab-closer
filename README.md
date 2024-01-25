@@ -1,4 +1,4 @@
-# superpower-daily-tab-closer
+# Auto-Close Superpower Daily Tab
 A very simple script that auto-closes the incredibly annoying tab opened daily from the Superpower ChatGPT browser extension, saving your sanity and time. You'll never be bothered by it again.
 
 This method is so effective & invisible that you don't even notice it taking place. I've been using it reliably for months; all this time, I completely about this daily tab that used to be opened. It only came back to mind now, that I now decided to share this method.
